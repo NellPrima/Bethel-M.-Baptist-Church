@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #efe9e6;
+}
+
+.menu {
+    width: 100%;
+    background-color: #fafafa;
+    height: 3rem;
+
+}
+
+.title {
+    width: 100%;
+    height: 3rem;
+    background-color: #8f7d5e;
+    margin-top: 1.5rem;
+}
+
+.bethel {
+    text-align: center;
+    color: #fafafa;
+    padding: .5rem;
+}
